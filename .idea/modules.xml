@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Bai_7_ViewPager.iml" filepath="$PROJECT_DIR$/Bai_7_ViewPager.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/bai_7_view_pager.iml" filepath="$PROJECT_DIR$/bai_7_view_pager.iml" />
     </modules>
   </component>
 </project>
